@@ -1,0 +1,31 @@
+id: PED0BFF13
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG1802
+  instance_id: http://purl.bdrc.io/resource/IE1KG1802
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསང་བ་སྙིང་པོའི་འགྲེལ་པ་ཀུན་བཟང་ཐུགས་ཀྱི་ཏི་ཀ
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - xun mi yao zhi pu xian xin zhuang yan zhu shi
+  author: http://purl.bdrc.io/resource/P697
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    6b829968db534638a1f0b681eb0ff886:
+      title: པོད ༡་གསང་བ་སྙིང་པོའི་འགྲེལ་པ་ཀུན་བཟང་ཐུགས་ཀྱི་ཏི་ཀ
+      volume_number: 1
+      base_file: UT1KG1802_I1KG1866_0000.txt
+      reference: http://purl.bdrc.io/resource/VLD046C7073EBA7697
+      image_group: I1KG1866
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG1802
+  - http://purl.bdrc.io/resource/MW1KG1802
+  ocr_software: Namsel
+created_at: '2021-12-24T17:16:31.906562'
+last_modified_at: '2021-12-24T17:16:31.906570'
